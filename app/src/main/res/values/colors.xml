@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="black_text_icon">#FF000000</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary_orange_light_">#FF9800</color>
+    <color name="primary_orange_Dark">#F57C00</color>
+    <color name="orange_acsent">#FF5722</color>
+    <color name="light_primery_for_backgrande">#D3C2A8</color>
+    <color name="secendry_text">#757575</color>
+    <color name="devider_color">#E4DEDE</color>
+
 </resources>
